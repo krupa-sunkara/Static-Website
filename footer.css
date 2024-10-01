@@ -1,0 +1,11 @@
+footer{
+  background-color:darksalmon;
+  font: bolder;
+  color:black;
+  text-align: center;
+display: flex;
+justify-content:center ;
+}
+body{
+  background-color: antiquewhite;
+}

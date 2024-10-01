@@ -1,0 +1,29 @@
+body{
+    padding: 20px;
+    background-color:antiquewhite;
+}
+.product-card{
+border: 2px solid black;
+width: 100%;
+height: auto;
+text-align: center;
+}
+.product-gird{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.product-card button{
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: blanchedalmond;  
+color: black;
+}
+.product-card img{
+   height: 300px;
+   width: 300px; 
+
+}
+.product-card button:hover{
+    background-color: tomato;
+}
